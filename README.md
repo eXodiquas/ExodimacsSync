@@ -16,6 +16,6 @@ and the repository is up to date and ready to commit and push.
 
 This tool currently only works from `.emacs.d` -> repository. So you need a working installation of exodimacs. But the next thing I want to implement is the opposite direction repository -> `.emacs.d`. Finally I want to implement some kind of installer that makes it even easiert to install.
 
-- [ ] Sync from `.emacs.d` to repository.
+- [X] Sync from `.emacs.d` to repository.
 - [ ] Sync from repository to `.emacs.d`.
 - [ ] Installer mode that does everything on its own.
